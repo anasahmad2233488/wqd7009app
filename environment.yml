@@ -1,9 +1,0 @@
-name: deploy
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - pandas
-  - ipywidgets
-  - voila
